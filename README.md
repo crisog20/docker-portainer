@@ -6,5 +6,5 @@ El proyecto consiste en estudiar la herramienta Portainer, que nos permite el de
 ## [3.-Acceso](https://github.com/crisog20/docker-portainer/blob/main/3.-Acceso.md)
 ## [4.-Descripción del panel de control](https://github.com/crisog20/docker-portainer/blob/main/4.-Descripción%20del%20panel%20de%20control.md)
 ## [5.-Despliegue del contenedor httpd](https://github.com/crisog20/docker-portainer/blob/main/5.-Despliegue%20del%20contenedor%20httpd.md)
-## 6.-Conclusión
+## [6.-Conclusión](https://github.com/crisog20/docker-portainer/blob/main/6.-Conclusi%C3%B3n.md)
 ## 7.-Referencias
